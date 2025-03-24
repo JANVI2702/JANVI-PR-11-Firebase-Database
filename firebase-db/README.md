@@ -36,4 +36,5 @@ The Firebase Data Management App is a React-based web application that allows us
 
 ## 4. ScreenShot  🖼️
 
+<img width="1673" alt="Image" src="https://github.com/user-attachments/assets/7d70818a-53c4-46f4-9693-836e5ea85145" />
 
